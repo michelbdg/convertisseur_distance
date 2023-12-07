@@ -1,0 +1,15 @@
+{
+    "name": "candidat/convertisseur_distance",
+    "autoload": {
+        "psr-4": {
+            "Candidat\\ConvertisseurDistance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michel",
+            "email": "bondongamichel@gmail.comm"
+        }
+    ],
+    "require": {}
+}
