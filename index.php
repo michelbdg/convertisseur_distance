@@ -11,13 +11,6 @@
         <label for="">distance:</label>
         <input type="text" name="distance" required>
 
-        <label for="">De:</label>
-        <select name="unity" required>
-            <option value="Metre">Mètre</option>
-            <option value="kilometre">Kilometre</option>
-            <option value="miles">Miles</option>
-        </select>
-
         <input type="submit" value="Convertir">
     </form>
     <div>

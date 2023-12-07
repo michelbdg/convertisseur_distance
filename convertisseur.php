@@ -3,7 +3,7 @@
 if($_SERVER["REQUEST_METHOD"] == "POST"){
     // Récuperer les données du formulaire 
     $distance = floatval($_POST['distance']);
-    $unity = $_POST['unity'];
+   
 
 
     // Convertir les unitées de mesures 
