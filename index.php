@@ -1,7 +1,3 @@
-<?php
-
-
-?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -19,13 +15,13 @@
         <select name="unity" required>
             <option value="Metre">Mètre</option>
             <option value="kilometre">Kilometre</option>
-            <option value="Miles">Miles</option>
+            <option value="miles">Miles</option>
         </select>
 
         <input type="submit" value="Convertir">
     </form>
     <div>
-        <?php 
+        <?php
             
         ?>
     </div>
